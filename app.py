@@ -1,4 +1,4 @@
 def saluer():
-    print('Bonjour à tous depuis GitHub !')
+    print('Bonjour et salut tout le monde!')
 
 saluer()

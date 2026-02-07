@@ -1,4 +1,4 @@
 def saluer():
-    print('Salut tout le monde depuis la branche principale !')
+    print('Bonjour et salut tout le monde!')
 
 saluer()
